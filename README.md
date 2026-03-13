@@ -48,6 +48,7 @@ Plataforma de análise de investimentos para FIIs e ações brasileiras.
 - 🎓 Licenciatura em Química — Uninter
 - 🎓 Licenciatura em História — FAPA
 - 🛡️ Especialização em Red Team / Cibersegurança — **Hackers do Bem** (MEC/RNP)
+- 📜 Pós-graduação em Metodologia do Ensino de História — UNIASSELVI
 - 📜 Pós-graduação em História e Cultura Afro-brasileira — UNIASSELVI
 - ⚗️ Técnico em Química — Escola Estadual Dom João Becker
 
