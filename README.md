@@ -44,7 +44,8 @@ Plataforma de análise de investimentos para FIIs e ações brasileiras.
 
 ## 📚 Formação
 
-- 🎓 Licenciatura em Química — Uninter (2025)
+- 🎓 Engenharia de Software (Anhanguera - em andamento)
+- 🎓 Licenciatura em Química — Uninter
 - 🎓 Licenciatura em História — FAPA
 - 🛡️ Especialização em Red Team / Cibersegurança — **Hackers do Bem** (MEC/RNP)
 - 📜 Pós-graduação em História e Cultura Afro-brasileira — UNIASSELVI
@@ -63,7 +64,7 @@ Plataforma de análise de investimentos para FIIs e ações brasileiras.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-buzzo-8526293b/)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/1380326098437307)
 
 ---
