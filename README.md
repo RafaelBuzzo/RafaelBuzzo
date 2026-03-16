@@ -20,6 +20,18 @@ Estou em transição de carreira para **Desenvolvimento de Software**, com foco 
 
 ## 🚀 Projetos em Destaque
 
+🏥 prontuario-sesai v0.7.1 — Em desenvolvimento
+Sistema de Prontuário Eletrônico para saúde indígena, desenvolvido para a SESAI/Ministério da Saúde.
+
+Cadastro completo de pacientes com histórico de aldeias e filiação
+Calendário vacinal PNI com controle de esquema por faixa etária (Completo / Em dia / Atrasada / Pendente)
+Evolução clínica com sinais vitais, comorbidades e prescrições médicas por consulta
+Alertas automáticos de vacinas vencidas ou próximas do vencimento
+Exportação de prontuário em PDF com quadro vacinal colorido
+Desenvolvido em parceria com médicos da rede para validação clínica real
+
+Java Spring Boot Swing H2 JPA/Hibernate iText 7 Desktop
+
 ### 🤖 [robo-dmae](https://github.com/RafaelLev/robo-dmae)
 Automação completa para download e extração de contas de água do portal DMAE (Porto Alegre).
 - Acessa o portal automaticamente via **Selenium**, baixa PDFs de múltiplas UCs
